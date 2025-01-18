@@ -1,4 +1,4 @@
-# Global Layoffs Data Analysis (2020-2023)
+# Global Layoffs Data Analysis 
 
 This project focuses on analyzing global layoffs data from the years 2020 to 2023 using MySQL. The primary objective was to clean a raw dataset containing layoff records and conduct an exploratory data analysis (EDA) to extract valuable insights regarding trends in layoffs across various companies, industries, countries, and years. The project showcases data cleaning, transformation, and the use of SQL to conduct analysis and present meaningful results.
 
